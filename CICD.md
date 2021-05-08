@@ -1,6 +1,6 @@
 # Continuous Integration (CI)
 ## Problem 
-- In traditional software development, the process of integration generally took place at the end of a project after each person had completed their work. Integration generally took weeks or months and could be very painful.
+- In traditional software development, the process of integration generally took place at the end of a project after each person had completed their work. Integration generally took weeks or months and could be very painful as at the end of it you may be left with conflicts or bugs to fix.
 ## Solution
 - Continuous integration is a practice that puts the integration phase earlier in the development cycle so that building, testing and integrating code happens on a more regular basis.
 ## Continuous Integration
