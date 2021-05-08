@@ -13,6 +13,6 @@
 - Taking smaller steps helps us estimate more accurately and validate more frequently. Small, controlled changes are safe to happen often. And by automating all integration steps, developers avoid repetitive work and human error. Instead of having people decide when and how to run tests, a CI tool monitors the central code repository and runs all automated tests on every commit. Based on the total result of tests, it either accepts or rejects the code commit.
 - Developers generally use a tool called the CI Server (e.g. Jenkins) to do the building, integration and testing (often unit tests).
 - A successful CI build may lead to further stages of continuous delivery.
-- **Summary**: Integration of frequant small changes -> A testable build as end result. It is not yet ready for production because it has not been tested and verified as working in production-like environments. 
+- **Summary**: Integration of frequant small changes -> A testable build as end result. This build is not yet ready for production because it has not been tested and verified as working in production-like environments. 
 
 ![](static/CI.png)
