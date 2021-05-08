@@ -14,4 +14,4 @@
 - A successful CI build may lead to further stages of continuous delivery.
 - Summary: Integration of frequant small changes -> A testable build (end result)
 
-![]()
+![](static/CI.png)
